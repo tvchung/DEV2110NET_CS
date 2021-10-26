@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Sessiono05_02_Inheristance/1.0.0": {
+        "runtime": {
+          "Sessiono05_02_Inheristance.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sessiono05_02_Inheristance/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

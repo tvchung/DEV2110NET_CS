@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Session05_03_Override/1.0.0": {
+        "runtime": {
+          "Session05_03_Override.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Session05_03_Override/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
