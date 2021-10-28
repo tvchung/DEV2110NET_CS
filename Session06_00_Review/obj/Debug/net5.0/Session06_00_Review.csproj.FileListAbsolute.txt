@@ -1,0 +1,16 @@
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session06_00_Review\bin\Debug\net5.0\Session06_00_Review.exe
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session06_00_Review\bin\Debug\net5.0\Session06_00_Review.deps.json
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session06_00_Review\bin\Debug\net5.0\Session06_00_Review.runtimeconfig.json
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session06_00_Review\bin\Debug\net5.0\Session06_00_Review.runtimeconfig.dev.json
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session06_00_Review\bin\Debug\net5.0\Session06_00_Review.dll
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session06_00_Review\bin\Debug\net5.0\ref\Session06_00_Review.dll
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session06_00_Review\bin\Debug\net5.0\Session06_00_Review.pdb
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session06_00_Review\obj\Debug\net5.0\Session06_00_Review.csprojAssemblyReference.cache
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session06_00_Review\obj\Debug\net5.0\Session06_00_Review.GeneratedMSBuildEditorConfig.editorconfig
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session06_00_Review\obj\Debug\net5.0\Session06_00_Review.AssemblyInfoInputs.cache
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session06_00_Review\obj\Debug\net5.0\Session06_00_Review.AssemblyInfo.cs
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session06_00_Review\obj\Debug\net5.0\Session06_00_Review.csproj.CoreCompileInputs.cache
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session06_00_Review\obj\Debug\net5.0\Session06_00_Review.dll
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session06_00_Review\obj\Debug\net5.0\ref\Session06_00_Review.dll
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session06_00_Review\obj\Debug\net5.0\Session06_00_Review.pdb
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session06_00_Review\obj\Debug\net5.0\Session06_00_Review.genruntimeconfig.cache
