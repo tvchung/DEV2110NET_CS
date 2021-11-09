@@ -13,4 +13,3 @@ E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session06_02_Interfac
 E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session06_02_Interface\obj\Debug\net5.0\ref\Session06_02_Interface.dll
 E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session06_02_Interface\obj\Debug\net5.0\Session06_02_Interface.pdb
 E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session06_02_Interface\obj\Debug\net5.0\Session06_02_Interface.genruntimeconfig.cache
-E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session06_02_Interface\obj\Debug\net5.0\Session06_02_Interface.csprojAssemblyReference.cache

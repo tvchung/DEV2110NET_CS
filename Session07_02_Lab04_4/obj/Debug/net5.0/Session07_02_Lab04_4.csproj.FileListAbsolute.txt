@@ -1,0 +1,15 @@
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session07_02_Lab04_4\bin\Debug\net5.0\Session07_02_Lab04_4.exe
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session07_02_Lab04_4\bin\Debug\net5.0\Session07_02_Lab04_4.deps.json
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session07_02_Lab04_4\bin\Debug\net5.0\Session07_02_Lab04_4.runtimeconfig.json
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session07_02_Lab04_4\bin\Debug\net5.0\Session07_02_Lab04_4.runtimeconfig.dev.json
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session07_02_Lab04_4\bin\Debug\net5.0\Session07_02_Lab04_4.dll
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session07_02_Lab04_4\bin\Debug\net5.0\ref\Session07_02_Lab04_4.dll
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session07_02_Lab04_4\bin\Debug\net5.0\Session07_02_Lab04_4.pdb
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session07_02_Lab04_4\obj\Debug\net5.0\Session07_02_Lab04_4.GeneratedMSBuildEditorConfig.editorconfig
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session07_02_Lab04_4\obj\Debug\net5.0\Session07_02_Lab04_4.AssemblyInfoInputs.cache
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session07_02_Lab04_4\obj\Debug\net5.0\Session07_02_Lab04_4.AssemblyInfo.cs
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session07_02_Lab04_4\obj\Debug\net5.0\Session07_02_Lab04_4.csproj.CoreCompileInputs.cache
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session07_02_Lab04_4\obj\Debug\net5.0\Session07_02_Lab04_4.dll
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session07_02_Lab04_4\obj\Debug\net5.0\ref\Session07_02_Lab04_4.dll
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session07_02_Lab04_4\obj\Debug\net5.0\Session07_02_Lab04_4.pdb
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session07_02_Lab04_4\obj\Debug\net5.0\Session07_02_Lab04_4.genruntimeconfig.cache

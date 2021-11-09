@@ -1,0 +1,16 @@
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session08_05_ExceptionHanlding\bin\Debug\net5.0\Session08_05_ExceptionHanlding.exe
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session08_05_ExceptionHanlding\bin\Debug\net5.0\Session08_05_ExceptionHanlding.deps.json
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session08_05_ExceptionHanlding\bin\Debug\net5.0\Session08_05_ExceptionHanlding.runtimeconfig.json
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session08_05_ExceptionHanlding\bin\Debug\net5.0\Session08_05_ExceptionHanlding.runtimeconfig.dev.json
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session08_05_ExceptionHanlding\bin\Debug\net5.0\Session08_05_ExceptionHanlding.dll
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session08_05_ExceptionHanlding\bin\Debug\net5.0\ref\Session08_05_ExceptionHanlding.dll
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session08_05_ExceptionHanlding\bin\Debug\net5.0\Session08_05_ExceptionHanlding.pdb
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session08_05_ExceptionHanlding\obj\Debug\net5.0\Session08_05_ExceptionHanlding.csprojAssemblyReference.cache
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session08_05_ExceptionHanlding\obj\Debug\net5.0\Session08_05_ExceptionHanlding.GeneratedMSBuildEditorConfig.editorconfig
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session08_05_ExceptionHanlding\obj\Debug\net5.0\Session08_05_ExceptionHanlding.AssemblyInfoInputs.cache
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session08_05_ExceptionHanlding\obj\Debug\net5.0\Session08_05_ExceptionHanlding.AssemblyInfo.cs
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session08_05_ExceptionHanlding\obj\Debug\net5.0\Session08_05_ExceptionHanlding.csproj.CoreCompileInputs.cache
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session08_05_ExceptionHanlding\obj\Debug\net5.0\Session08_05_ExceptionHanlding.dll
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session08_05_ExceptionHanlding\obj\Debug\net5.0\ref\Session08_05_ExceptionHanlding.dll
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session08_05_ExceptionHanlding\obj\Debug\net5.0\Session08_05_ExceptionHanlding.pdb
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session08_05_ExceptionHanlding\obj\Debug\net5.0\Session08_05_ExceptionHanlding.genruntimeconfig.cache

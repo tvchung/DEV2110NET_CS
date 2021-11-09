@@ -1,0 +1,15 @@
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session08_01_HashTable\bin\Debug\net5.0\Session08_01_HashTable.exe
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session08_01_HashTable\bin\Debug\net5.0\Session08_01_HashTable.deps.json
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session08_01_HashTable\bin\Debug\net5.0\Session08_01_HashTable.runtimeconfig.json
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session08_01_HashTable\bin\Debug\net5.0\Session08_01_HashTable.runtimeconfig.dev.json
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session08_01_HashTable\bin\Debug\net5.0\Session08_01_HashTable.dll
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session08_01_HashTable\bin\Debug\net5.0\ref\Session08_01_HashTable.dll
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session08_01_HashTable\bin\Debug\net5.0\Session08_01_HashTable.pdb
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session08_01_HashTable\obj\Debug\net5.0\Session08_01_HashTable.GeneratedMSBuildEditorConfig.editorconfig
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session08_01_HashTable\obj\Debug\net5.0\Session08_01_HashTable.AssemblyInfoInputs.cache
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session08_01_HashTable\obj\Debug\net5.0\Session08_01_HashTable.AssemblyInfo.cs
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session08_01_HashTable\obj\Debug\net5.0\Session08_01_HashTable.csproj.CoreCompileInputs.cache
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session08_01_HashTable\obj\Debug\net5.0\Session08_01_HashTable.dll
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session08_01_HashTable\obj\Debug\net5.0\ref\Session08_01_HashTable.dll
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session08_01_HashTable\obj\Debug\net5.0\Session08_01_HashTable.pdb
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session08_01_HashTable\obj\Debug\net5.0\Session08_01_HashTable.genruntimeconfig.cache

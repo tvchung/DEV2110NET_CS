@@ -1,0 +1,15 @@
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Sessiono05_02_Inheristance\bin\Debug\net5.0\Session05_02_Inheristance.exe
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Sessiono05_02_Inheristance\bin\Debug\net5.0\Session05_02_Inheristance.deps.json
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Sessiono05_02_Inheristance\bin\Debug\net5.0\Session05_02_Inheristance.runtimeconfig.json
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Sessiono05_02_Inheristance\bin\Debug\net5.0\Session05_02_Inheristance.runtimeconfig.dev.json
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Sessiono05_02_Inheristance\bin\Debug\net5.0\Session05_02_Inheristance.dll
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Sessiono05_02_Inheristance\bin\Debug\net5.0\ref\Session05_02_Inheristance.dll
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Sessiono05_02_Inheristance\bin\Debug\net5.0\Session05_02_Inheristance.pdb
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Sessiono05_02_Inheristance\obj\Debug\net5.0\Session05_02_Inheristance.GeneratedMSBuildEditorConfig.editorconfig
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Sessiono05_02_Inheristance\obj\Debug\net5.0\Session05_02_Inheristance.AssemblyInfoInputs.cache
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Sessiono05_02_Inheristance\obj\Debug\net5.0\Session05_02_Inheristance.AssemblyInfo.cs
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Sessiono05_02_Inheristance\obj\Debug\net5.0\Session05_02_Inheristance.csproj.CoreCompileInputs.cache
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Sessiono05_02_Inheristance\obj\Debug\net5.0\Session05_02_Inheristance.dll
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Sessiono05_02_Inheristance\obj\Debug\net5.0\ref\Session05_02_Inheristance.dll
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Sessiono05_02_Inheristance\obj\Debug\net5.0\Session05_02_Inheristance.pdb
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Sessiono05_02_Inheristance\obj\Debug\net5.0\Session05_02_Inheristance.genruntimeconfig.cache
