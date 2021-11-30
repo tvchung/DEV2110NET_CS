@@ -15,7 +15,7 @@ namespace Session08_04_NamespaceDemo
             StudentManagement.Student obj = new StudentManagement.Student(100, "Chung", 42);
 
             Employee emp1 = new Employee();
-            emp1.Display()
+            emp1.Display();
 
         }
     }

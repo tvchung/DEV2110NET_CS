@@ -1,0 +1,16 @@
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session10_00_Linq\bin\Debug\net5.0\Session10_00_Linq.exe
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session10_00_Linq\bin\Debug\net5.0\Session10_00_Linq.deps.json
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session10_00_Linq\bin\Debug\net5.0\Session10_00_Linq.runtimeconfig.json
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session10_00_Linq\bin\Debug\net5.0\Session10_00_Linq.runtimeconfig.dev.json
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session10_00_Linq\bin\Debug\net5.0\Session10_00_Linq.dll
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session10_00_Linq\bin\Debug\net5.0\ref\Session10_00_Linq.dll
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session10_00_Linq\bin\Debug\net5.0\Session10_00_Linq.pdb
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session10_00_Linq\obj\Debug\net5.0\Session10_00_Linq.csprojAssemblyReference.cache
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session10_00_Linq\obj\Debug\net5.0\Session10_00_Linq.GeneratedMSBuildEditorConfig.editorconfig
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session10_00_Linq\obj\Debug\net5.0\Session10_00_Linq.AssemblyInfoInputs.cache
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session10_00_Linq\obj\Debug\net5.0\Session10_00_Linq.AssemblyInfo.cs
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session10_00_Linq\obj\Debug\net5.0\Session10_00_Linq.csproj.CoreCompileInputs.cache
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session10_00_Linq\obj\Debug\net5.0\Session10_00_Linq.dll
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session10_00_Linq\obj\Debug\net5.0\ref\Session10_00_Linq.dll
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session10_00_Linq\obj\Debug\net5.0\Session10_00_Linq.pdb
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session10_00_Linq\obj\Debug\net5.0\Session10_00_Linq.genruntimeconfig.cache

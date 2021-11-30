@@ -21,7 +21,6 @@ E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\session02_3\bin\Debug
 E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\session02_3\bin\Debug\net5.0\session02_3.dll
 E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\session02_3\bin\Debug\net5.0\ref\session02_3.dll
 E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\session02_3\bin\Debug\net5.0\session02_3.pdb
-E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\session02_3\obj\Debug\net5.0\session02_3.csprojAssemblyReference.cache
 E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\session02_3\obj\Debug\net5.0\session02_3.GeneratedMSBuildEditorConfig.editorconfig
 E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\session02_3\obj\Debug\net5.0\session02_3.AssemblyInfoInputs.cache
 E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\session02_3\obj\Debug\net5.0\session02_3.AssemblyInfo.cs
@@ -30,3 +29,4 @@ E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\session02_3\obj\Debug
 E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\session02_3\obj\Debug\net5.0\ref\session02_3.dll
 E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\session02_3\obj\Debug\net5.0\session02_3.pdb
 E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\session02_3\obj\Debug\net5.0\session02_3.genruntimeconfig.cache
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\session02_3\obj\Debug\net5.0\session02_3.csprojAssemblyReference.cache

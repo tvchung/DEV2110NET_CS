@@ -1,0 +1,13 @@
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session09_02_WApp\bin\Debug\Session09_02_WApp.exe.config
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session09_02_WApp\bin\Debug\Session09_02_WApp.exe
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session09_02_WApp\bin\Debug\Session09_02_WApp.pdb
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session09_02_WApp\bin\Debug\EntityFramework.dll
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session09_02_WApp\bin\Debug\EntityFramework.SqlServer.dll
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session09_02_WApp\bin\Debug\EntityFramework.xml
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session09_02_WApp\bin\Debug\EntityFramework.SqlServer.xml
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session09_02_WApp\obj\Debug\Session09_02_WApp.Properties.Resources.resources
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session09_02_WApp\obj\Debug\Session09_02_WApp.csproj.GenerateResource.cache
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session09_02_WApp\obj\Debug\Session09_02_WApp.csproj.CoreCompileInputs.cache
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session09_02_WApp\obj\Debug\Session09_02_WApp.csproj.CopyComplete
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session09_02_WApp\obj\Debug\Session09_02_WApp.exe
+E:\Drive_0\1 [07]\Devmaster.edu.vn\DEV2110CS\DEV2110NET_CS\Session09_02_WApp\obj\Debug\Session09_02_WApp.pdb
